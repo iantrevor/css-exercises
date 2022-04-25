@@ -1,0 +1,20 @@
+#blueTitle {
+    font-size: 36px;
+    color: rgb(32, 79, 208);
+}
+
+#greenTitle {
+    background-color: rgb(124, 224, 124);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.pink {
+    background-color: rgb(226, 173, 173);
+    color: black;
+    font-family: Verdana, "DejaVu Sand", sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
